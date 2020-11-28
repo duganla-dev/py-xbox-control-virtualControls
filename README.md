@@ -1,2 +1,2 @@
-# py-xbox-control-virtualControls
-Use an xbox controler to control your PC
+# Python Xbox Controller Controller
+Use an Xbox controller to control your PC
